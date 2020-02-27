@@ -1,0 +1,1 @@
+# ansible_custom_diff_module
