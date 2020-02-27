@@ -5,4 +5,5 @@ and check if they are equal or not
 
 # return values
 diff : evaluate source and target -in case of file or command-
+
 if changed return True -it means source and target is different-
